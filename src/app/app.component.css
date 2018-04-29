@@ -113,7 +113,26 @@
       left: -30%;
       border: none;
     }
+    .contact {
+      height: 50px;
+      position: absolute;
+      top: 100px;
+      left: 220px;
+      font-family: "Rajdhani", sans-serif;
+      font-size: 20px;
+      font-style: normal;
+      font-variant: normal;
+      font-weight: 200;
+      line-height: 20px;
+      padding: 0;
+      cursor: default;
+      color: white;
+      box-shadow: #111111;
+      transition: .3s ease;
+      opacity: 0;
+      z-index: 4;
     }
+  }
 
 
   .info-button  {
