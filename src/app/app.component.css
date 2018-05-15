@@ -67,7 +67,7 @@
     position: absolute;
     padding: 0;
     margin: 0;
-    top: calc(50% - 35vh);
+    top: calc(50% - 30vh);
     width: 100%;
     height: 70vh;
     z-index: 1;
@@ -78,7 +78,7 @@
   width: 100%;
   height: auto;
   position: absolute;
-  top: -100px;
+  top: -50px;
   left: 0;
   border: none;
 }
